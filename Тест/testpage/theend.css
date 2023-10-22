@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    overflow: hidden;
+    background: #01001E;
+}
+.img{
+    position: absolute;
+}
+.i2{
+    left: 500px;
+}
+.i3{
+    left: 800px;
+    top: 150px;
+}
+.i4{
+    left: 1400px;
+}
+.ETTG{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.ETTDop{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 34px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 550px;
+}
+.ETTDiv{
+    position: relative;
+    left: 120px;
+    top: 300px;
+}

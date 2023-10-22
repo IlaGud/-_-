@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(../img/fontest.png), lightgray 50% / cover no-repeat;
+    background-color: #070613;
+}
+a{
+    text-decoration: none;
+    cursor: default;
+    color: #FFF;
+}
+.Vopros{
+    margin-left: 200px;
+    margin-top: 100px;
+    color: #FFF;
+font-family: Montserrat, sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.IEld{
+    position: relative;
+    left: 200px;
+    width: 190px;
+height: 4px;
+flex-shrink: 0;
+border-radius: 2px;
+background: #03FFE1;
+}
+.imtp{
+    width: 600px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.totv{
+    cursor: default;
+    width: 300px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 31px;
+background: rgba(89, 89, 89, 0.60);
+margin: 20px;
+text-align: center;
+padding-top: 25px;
+padding-bottom: 15px;
+font-size: 30px;
+color: #FFF;
+transition: 1s;
+}
+
+.otvets{
+    position: absolute;
+    top: 190px;
+    left: 1000px;
+}
+
+.nomvopr{
+    margin-left: 250px;
+    margin-top: 50px;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
